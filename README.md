@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thandrich
 - 👀 I’m interested in data analytics and science
-- 🌱 I’m currently learning machine leraning best practices
+- 🌱 I’m currently learning machine learning best practices
 - 📫 Please feel free to reach out via [linkedin.com/in/tillhandrich/](url)
 
 <!---
