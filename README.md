@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thandrich
 - 👀 I’m interested in data analytics and science
 - 🌱 I’m currently learning machine learning best practices
-- 📫 Please feel free to reach out via [linkedin.com/in/tillhandrich/](url)
+- 📫 Please feel free to reach out via [linkein](linkedin.com/in/tillhandrich/)
 
 <!---
 thandrich/thandrich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
